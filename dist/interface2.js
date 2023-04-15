@@ -9,7 +9,7 @@ const ramanand = { dbId: 22, email: "r@gmail.com", userId: 222,
     }
 };
 ramanand.email = "rn@gmail.com";
-
+console.log(ramanand)
 
 /* Output 
 {
